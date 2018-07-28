@@ -1,0 +1,15 @@
+BH1750 --> i2c
+BMP180 --> i2c
+DS18b20 --> 4
+fire sensor --> 5
+flow sensor --> 6
+gas sensor --> 26
+dr --> 21
+cds -->20
+
+buzzer--> 23
+
+relay1 --> 24
+relay2 --> 25
+relay3 --> 8
+relay4 --> 7
